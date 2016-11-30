@@ -1,0 +1,95 @@
+#container {
+  width: 700px;
+  height: 700px;
+  border: 2px solid black;
+  margin:auto;
+  text-align: center;
+
+}
+#rectangle{
+  width: 90%;
+  height: 25%;
+  border: 2px solid black;
+  display: inline-block;
+  text-align: center;
+  margin-top: 5%;
+}
+#box{
+  width: 120px;
+  height: 120px;
+  border: 2px solid black;
+  margin-left: 5%;
+  margin-top: 4%;
+  margin-bottom: 5%;
+  display: inline-block;
+  float: left;
+
+
+}
+#textbox{
+  width: 400px;
+  height: 140px;
+  margin-bottom: 20%;
+  margin-left: 130%;
+  text-align: left;
+  display: inline-block;
+  float:left;
+}
+
+#rectangle2{
+  width: 90%;
+  height: 25%;
+  border: 2px solid black;
+  display: inline-block;
+  text-align: center;
+  margin-top: 5%;
+}
+
+#textbox2{
+  width: 400px;
+  height: 140px;
+  margin-right: 180px;
+  margin-bottom: 20%;
+  text-align: left;
+  display: inline-block;
+  float:right;
+}
+#box2{
+  width: 120px;
+  height: 120px;
+  border: 2px solid black;
+  margin-right: 5%;
+  margin-top: 4%;
+  margin-bottom: 5%;
+  display: inline-block;
+  float: right;
+}
+#rectangle3{
+  width: 90%;
+  height: 25%;
+  border: 2px solid black;
+  display: inline-block;
+  text-align: center;
+  margin-top: 5%;
+
+}
+#box3{
+  width: 120px;
+  height: 120px;
+  border: 2px solid black;
+  margin-left: 5%;
+  margin-top: 4%;
+  margin-bottom: 5%;
+  display: inline-block;
+  float: left;
+
+}
+#textbox3{
+  width: 400px;
+  height: 140px;
+  margin-bottom: 20%;
+  margin-left: 130%;
+  text-align: left;
+  display: inline-block;
+  float:left;
+}

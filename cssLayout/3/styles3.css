@@ -1,0 +1,39 @@
+#container {
+width: 1400px;
+height: 600px;
+border: 2px solid black;
+margin:auto;
+/*position: relative;*/
+
+}
+#topbox {
+  width:100%;
+  height: 60%;
+  text-align: center;
+
+
+
+}
+#rectangle1 {
+width: 47%;
+height: 90%;
+border: 2px solid black;
+margin: .5%;
+display: inline-block;
+
+}
+
+#bottombox {
+  width:100%;
+  height: 40%;
+  text-align: center;
+}
+
+#box1 {
+  width:31%;
+  height: 90%;
+  border: 2px solid black;
+  margin: .5%;
+  display: inline-block;
+
+}
